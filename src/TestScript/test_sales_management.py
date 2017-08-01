@@ -20,7 +20,7 @@ class Test(unittest.TestCase):
     def test_asles_management(self):
         
         self.driver.implicitly_wait(30)
-        #销售管理
+        #销售管理模块
         BaseFunction.getLocator(self.driver, "sales_button").click()
         
 
