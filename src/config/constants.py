@@ -1,7 +1,7 @@
 #coding=utf-8
 import os
 web_url="http://qa.market-mis.wmdev2.lsh123.com/"
-dirs="D://EclipseWorkSapce//WebUIAutoTest//src//config//"
+dirs="D:/EclipseWorkSapce/misUIAutoTest/src/config/"
 ini_path=dirs+"proper.ini"
 excel_path=dirs+"TestData.xlsx"
 email_path=dirs+"Report.html"
